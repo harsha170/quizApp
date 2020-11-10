@@ -1,0 +1,21 @@
+.answer{
+    background: white ;
+    color: black;
+}
+.answer:hover{
+color: white;
+}
+.box{
+    padding-top: 100px;
+}
+.questionCount{
+    display: flex;
+    justify-content: space-between;
+}
+.score,.finishQuestion{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.progress{
+    height: 30px;
+}
